@@ -1,5 +1,5 @@
 <samp>
-  my website -> <a href="https://www.puang.in">puang.in</a>
+  my website -> <a href="https://puang.in">puang.in</a>
 </samp>
 
 
